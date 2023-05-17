@@ -27,18 +27,6 @@ var questionBank= [
     }
 ]
 
-/*var score = 0;
-
-for(var i = 0; i < questionBank.length; i++){
-	var answer = window.prompt(questionBank[i].question);
-	if (response == questionBank[i].answer){
-		score++;
-		alert("Correct!");
-	} else {
-		alert("WRONG!");
-	}
-}
-alert("you got " + score + "/" + questionBank.length);*/
 
 
 var question= document.getElementById('question');
