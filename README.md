@@ -1,11 +1,37 @@
 # TheBiasGame
-WHY WOULDN’T YOU...?
-You said to tell you why you should give us full credit... I think the question should be why wouldn’t you give us full credit? You don’t agree? Well, don’t worry. I’m about to convince you. In the end, it should be beyond reasonable doubt that we don’t deserve anything less than a perfect score.
-Let’s start with usability. Our website is very easy to navigate and is clear and concise. The head banner contains navigation links that lead to the most prominent areas of the website’s landing page. These links are the ‘Home’, ‘About’, ‘Games’, and ‘Contact’ which lead to the home page of our landing page which holds a small introduction about the topic we are tackling as well as a ‘Play Now’ button that leads to the quizzes, the About us page that talks about the purpose of the website, the Games page which takes us to the landing pages containing links to the quiz games and resources introducing our topic and testing the knowledge of the visitors, and finally, there is the contact button that leads to the Contact Us page that allows visitors to message us with any questions or concerns they may have. From this, you can already see that the landing page of our website is very easily navigated and with the self-explanatory, clear, concise information, there is no reason for any form of further explanation.
-Now, moving on to educational value. As stated above, our website features resource links and quizzes to test the knowledge of our visitors. In our list of resources, there are three reputable article sources talking about bias in facial and two YouTube videos further expounding on the topic. In relation to our quizzes, there are three levels, ‘Easy’, ‘Mid’, and ‘Hard’. Depending on the level the visitor believes they are at, they can choose the level that best suits them. This helps us cater to every one of our personas. For further information, we had four personas divided into types. The first type is an individual who has experience with facial recognition and the bias it
-comes with and the second is one without any knowledge who is looking to learn about what it is. Individuals who have experience can jump right into the quizzes and take it from there according to whatever result they get and whatever decisions they make. The individuals looking to learn can go look at the resources first before doing the quizzes... or not, depending on what they decide. However, regardless of what everyone decides, their every need will be catered for.
-Next, we look at the interactive section of our website. I believe the previous paragraphs have already explained this aspect. But I will talk a little more about what the quiz contains. Our quiz, as I said earlier, has three levels. However, what I haven’t mentioned yet is that each level has 5 questions, again with increasing difficulty. After the quiz is done, you are free to check the answers and understand what you got wrong and why. There is also an option to go back to restart the quiz.
-Moving on to the aesthetics of our website. Must I even go on? One look at our website and your happy chemicals skyrocket. It features a beautiful blend of purple, pink, and green... and some blue. There are attractive, eye-catching images that relate to the themes of the aspects of the website they are representing. I need not say more. The implementation is a mere attestation to its own beauty.
-Now, in addition to all of this, our website is mobile responsive. On smaller screens and windows, we made sure that every feature and element of the website was in a good place and was arranged in good order. The mobile responsiveness features a menu page that can be accessed by a menu button and an exit button that clicks you onto the main landing page. There is no information or feature lost when using a phone or a small window.
+The Bias Game: Why You'll Love It (Built with HTML, CSS, and JavaScript)
 
-I hope that with everything we have stated, you now understand why you should give us full credit for this project. We put a lot of hard work and energy and time into it, and I can say with full confidence that it paid off. And I am hoping that you have seen that too.
+Easy Navigation, Clear Information:
+
+Our website, built with HTML, CSS, and JavaScript, is designed for ease of use. The main menu on the landing page features clear links: Home, About, Games, and Contact. These lead you to the relevant sections, coded with smooth transitions and user interaction.
+
+Home: Introduces the topic of bias and offers a "Play Now" button to take the quizzes.
+About: Explains the website's purpose, all displayed using clean and well-structured HTML.
+Games: Lists the various quizzes available, with user-friendly navigation powered by JavaScript.
+Contact: Provides a way to reach us with any questions, built with interactive forms using HTML and JavaScript.
+Everything is straightforward and self-explanatory, requiring no additional guidance, thanks to the power of clear HTML structure and user-friendly JavaScript interactions.
+
+Learning Made Fun:
+
+The website offers resources and quizzes to educate users about bias in facial recognition, all built with the flexibility of HTML, CSS, and JavaScript.
+
+Resources: We've curated a list of three reputable articles and two Youtube videos on the topic. These links are seamlessly integrated using HTML and styled with CSS for optimal presentation.
+Quizzes: Three difficulty levels cater to everyone: Easy, Medium, and Hard. Individuals can choose the level that best suits their knowledge, with dynamic selection powered by JavaScript.
+Engaging Interactivity (Powered by JavaScript):
+
+The quizzes are interactive and engaging, thanks to the power of JavaScript:
+
+Three Levels: Each level has five questions with increasing difficulty.
+Learn from Mistakes: After the quiz, you can review your answers and understand why you got something wrong. JavaScript functionality allows for immediate feedback and answer explanations.
+Replay Option: Don't like your score? You can always restart the quiz and try again, with a user-friendly "restart" button implemented using JavaScript.
+Visually Appealing Design (CSS Takes Center Stage):
+
+The website boasts a beautiful aesthetic with a blend of purple, pink, green, and some blue. Eye-catching images relevant to the content enhance the user experience, all brought to life with CSS styling.
+
+Mobile Friendly:
+
+We haven't forgotten about mobile users! The website seamlessly adjusts to smaller screens, ensuring all features remain accessible and well-organized. A dedicated menu button provides easy navigation, while an exit button returns you to the main landing page. No information or functionality is lost when using a phone or tablet, thanks to responsive design techniques implemented with HTML and CSS.
+
+We're Confident You'll Agree:
+
+We poured a lot of time and effort into creating The Bias Game, and we believe it shows. Our focus on usability, education, interactivity, and aesthetics, all achieved using HTML, CSS, and JavaScript, delivers a valuable and enjoyable experience. 
